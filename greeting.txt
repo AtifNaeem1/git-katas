@@ -1,2 +1,3 @@
-HELLO WORLD from master!!
 
+HELLO WORLD from master!!
+conflict resolved
