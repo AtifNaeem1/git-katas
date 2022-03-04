@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 HELLO WORLD!!
-=======
-Have a great day!!
->>>>>>> greeting
+
